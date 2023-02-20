@@ -4,3 +4,5 @@ Making chnages to see stash file.
 =======
 making changes to see stash command
 >>>>>>> Stashed changes
+
+changes are made to see..
